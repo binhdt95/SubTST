@@ -20,4 +20,4 @@ from .XLMRoBERTa import XLMRoBERTa
 from .XLNet import XLNet
 from .Transformer_Topic import Transformer_Topic
 from .Features_transfer import Features_transfer
-from .Transformer_Topic_v2 import Transformer_Topic_v2
+# from .Transformer_Topic_v2 import Transformer_Topic_v2
